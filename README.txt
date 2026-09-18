@@ -1,34 +1,35 @@
-GSM MARKET STOREFRONT
+GSM MARKET
 
-PREVIEW
-Open index.html directly in a browser, or use a local static server:
-  python3 -m http.server 8000
-Then visit http://localhost:8000.
-This is a plain HTML and CSS website — no JavaScript, no build tools and no
-third-party script dependencies are used anywhere on the site.
+GSM Market is a concept storefront website for a small South African retail
+shop selling mobile phones, accessories, electronics, clothing and everyday
+essentials. It's built as a plain HTML and CSS site — there is no
+JavaScript, no build step and no backend anywhere in the project.
 
-FILES
-- styles.css: responsive navy-and-lime storefront design.
-- index.html, products.html, mobile-phones.html, accessories.html,
-  electronics.html, clothing.html, everyday-items.html, about.html,
-  contact.html: static pages. Every product card is hand-written HTML;
-  there is no catalogue data file or client-side rendering.
-- assets/products/: locally stored product photos and source manifest.
-  Example photos are labelled for catalogue entries without exact model/style data.
-  Google Fonts and the shop lifestyle photo use external services.
+PAGES
+- index.html: the homepage, with a hero banner, a department overview,
+  a shortlist of featured products and a few items under R500.
+- products.html: every product in the catalogue, grouped by category.
+- mobile-phones.html, accessories.html, electronics.html, clothing.html,
+  everyday-items.html: one page per department.
+- about.html: a short introduction to the shop.
+- contact.html: contact details and an enquiry form.
 
-SHOPPING
-There is no shopping bag, search, filtering or sorting — all of that required
-JavaScript and has been removed. Each product card links to the contact page
-so a visitor can ask about that item directly. The contact form submits via
-a mailto: action (support@gsmmarket.co.za), which opens the visitor's own
-email app with the message pre-filled — it does not send anything on its
-own, and relies on the visitor's device having an email app configured.
-Phone (+27 78 306 1787) and email (support@gsmmarket.co.za) are listed on
-the contact page; confirm these are correct before relying on them.
+THE CATALOGUE
+Twenty products are shown across the five departments — real, named items
+(Samsung, Lenovo, Anker, Levi's and others) rather than filler placeholders.
+Each product card shows its own photo, name, description and a guide price
+in South African Rand. The photos are real product photos sourced from
+retailer listings; a few are labelled "Example photo" where the exact model
+shown isn't confirmed. See assets/products/README.md and sources.json for
+where each photo came from.
 
-BEFORE SELLING
-Confirm the catalogue specifications, product imagery, selling prices and stock.
-Provide business contact details, delivery, returns and warranty terms.
-Connect an order service and payment provider to accept real purchases.
-Never collect card details in the static website.
+GETTING IN TOUCH
+There's no shopping cart, search or checkout — this is a browsing catalogue,
+not a working online store. Instead, every product links to the contact
+page, and the enquiry form there opens the visitor's email app addressed to
+the shop (support@gsmmarket.co.za), alongside a phone number
+(+27 78 306 1787) for people who'd rather call.
+
+DESIGN
+The look is a navy-and-lime storefront style, laid out in styles.css, and
+responsive from desktop down to phone-sized screens.
