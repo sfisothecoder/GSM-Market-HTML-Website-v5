@@ -1,0 +1,182 @@
+[
+  {
+    "productId": "mobile-phones-1",
+    "name": "Samsung Galaxy A16 4G 128GB",
+    "file": "assets/products/galaxy-a16-4g.png",
+    "page": "https://www.samsung.com/za/smartphones/galaxy-a/galaxy-a16-black-128gb-sm-a165fzkdafa/",
+    "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/za/sm-a165fzkdafa/gallery/za-galaxy-a16-sm-a165-sm-a165fzkdafa-544332146?$1164_776_PNG$",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "mobile-phones-2",
+    "name": "Samsung Galaxy A16 5G",
+    "file": "assets/products/galaxy-a16-5g.png",
+    "page": "https://www.samsung.com/za/smartphones/galaxy-a/galaxy-a16-5g-blue-black-128gb-sm-a166pzkdafa/",
+    "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/za/sm-a166pzkdafa/gallery/za-galaxy-a16-5g-sm-a166-sm-a166pzkdafa-544257747?$1164_776_PNG$",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "mobile-phones-3",
+    "name": "Xiaomi Redmi A5 128GB",
+    "file": "assets/products/redmi-a5.webp",
+    "page": "https://www.incredible.co.za/xiaomi-redmi-a5-128gb",
+    "imageUrl": "https://www.incredible.co.za/api/catalog/product/r/e/redmi_a5_ksps_04__1__ecommerce_6dcd.png",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "mobile-phones-4",
+    "name": "Apple iPhone 13 128GB (Pre-Owned, A Grade)",
+    "file": "assets/products/iphone-13.webp",
+    "page": "https://www.incredible.co.za/apple-iphone-13-pre-owned-a-grade",
+    "imageUrl": "https://www.incredible.co.za/api/catalog/product/i/p/iphone_13_midnight_pdp_image_position_1a__wwen_ecommerce_1014.png",
+    "note": "Pre-owned A-grade stock photo. Confirm the exact battery health, cosmetic grade and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "accessories-1",
+    "name": "Anker Zolo 30W USB-C Charger + Cable",
+    "file": "assets/products/anker-zolo-30w.jpg",
+    "page": "https://www.shopandship.co.za/products/anker-zolo-30w-compact-usb-c-charger-with-cable-black",
+    "imageUrl": "https://www.shopandship.co.za/cdn/shop/files/6_0fdf6722-9e44-46b4-93e0-24c2311b65d6_1200x1200.jpg?v=1785832356",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "accessories-2",
+    "name": "Baseus Cube Pro 65W GaN 3-Port Charger",
+    "file": "assets/products/baseus-cube-pro-65w.jpg",
+    "page": "https://baseus.co.za/products/baseus-cube-pro-fast-charger-type-c-65w-eu",
+    "imageUrl": "https://baseus.co.za/cdn/shop/files/3dd361ef-f7bf-44c4-8c47-e2f72e933628.jpg?v=1788510376",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "accessories-3",
+    "name": "Soundcore by Anker A20i True Wireless Earbuds",
+    "file": "assets/products/soundcore-a20i.webp",
+    "page": "https://www.incredible.co.za/soundcore-a20i-true-wireless-earbuds-black",
+    "imageUrl": "https://www.incredible.co.za/api/catalog/product/a/2/a20i_ecommerce_6e92.png",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "accessories-4",
+    "name": "Body Glove Samsung Galaxy A16 AstrX Case",
+    "file": "assets/products/body-glove-a16-case.webp",
+    "page": "https://www.incredible.co.za/body-glove-samsung-galaxy-a16-astrx-case-black",
+    "imageUrl": "https://www.incredible.co.za/api/catalog/product/b/g/bgast_ga16_bk_ecommerce_d50e.png",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "electronics-1",
+    "name": "Lenovo IdeaPad Slim 3 Core i5",
+    "file": "assets/products/lenovo-slim-3.jpg",
+    "page": "https://www.xcite.com/lenovo-ideapad-slim-3-laptop-intel-core-i5-15-3-8gb-ram-512gb-ssd-integrated-intel-uhd-graphics-windows-11-home-83k10088ax-grey/p",
+    "imageUrl": "https://cdn.media.amplience.net/i/xcite/664598-01?img404=default&w=1000&qlt=85&fmt=auto",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "electronics-2",
+    "name": "Lenovo IdeaPad 1 Celeron",
+    "file": "assets/products/lenovo-ideapad-1.jpg",
+    "page": "https://www.shopperswarehouse.com/products/1455/lenovo-ideapad-1-8gb-256gb-celeron-n4500-win11-laptop",
+    "imageUrl": "https://cdn.shopperswarehouse.com/live/images/4ac0f3-1785489533873-9efc92.jpg",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "electronics-3",
+    "name": "Lenovo V15 G4 Ryzen 5",
+    "file": "assets/products/lenovo-v15.jpg",
+    "page": "https://www.lenovo-online.co.za/products/lenovo-v15-g4-amn-15-6-inch-fhd-amd-ryzen-5-7520u-8gb-ram-512gb-ssd-win-11-home-laptop-82yu015xsa-378334",
+    "imageUrl": "https://www.lenovo-online.co.za/cdn/shop/files/073451e6-6896-4951-aaf1-a7f15bf5a845-1.jpg?v=1769414527&width=1024",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "electronics-4",
+    "name": "Samsung Galaxy Tab A9 LTE 64GB",
+    "file": "assets/products/galaxy-tab-a9.png",
+    "page": "https://www.samsung.com/za/tablets/galaxy-tab-a/galaxy-tab-a9-lte-gray-64gb-sm-x115nzaaafa/",
+    "imageUrl": "https://images.samsung.com/is/image/samsung/p6pim/za/sm-x115nzaaafa/gallery/za-galaxy-tab-a9-sm-x115-sm-x115nzaaafa-thumb-538634421",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "clothing-1",
+    "name": "Ben Sherman Essential Crew Neck Tee",
+    "file": "assets/products/ben-sherman-tee.jpg",
+    "page": "https://www.bensherman.co.za/products/essential-crew-neck-tee-black-1",
+    "imageUrl": "https://www.bensherman.co.za/cdn/shop/products/ENC003BLK_5_9dab8235-9b3f-43a1-9cda-1a9601de0e9b-153965.jpg?v=1744973126&width=1000",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "clothing-2",
+    "name": "Levi's 501 Original Jeans — Black",
+    "file": "assets/products/levis-501-black.jpg",
+    "page": "https://www.levi.co.za/products/levis-r-mens-501-r-original-jeans-black-2",
+    "imageUrl": "https://www.levi.co.za/cdn/shop/files/e9da59c2914a6f53b8ba17588e006fed.jpg?v=1773320238",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "clothing-3",
+    "name": "Ben Sherman College Blue Polo Shirt",
+    "file": "assets/products/ben-sherman-polo.jpg",
+    "page": "https://www.bensherman.co.za/products/ben-polo-college-blue",
+    "imageUrl": "https://www.bensherman.co.za/cdn/shop/files/1_1bcef064-e09e-4796-b140-8667cead4384.png?v=1743436892",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "clothing-4",
+    "name": "Ben Sherman B Bling Cap — Black",
+    "file": "assets/products/ben-sherman-cap.jpg",
+    "page": "https://www.bensherman.co.za/products/b-bling-cap-black",
+    "imageUrl": "https://www.bensherman.co.za/cdn/shop/files/BBlingPeakCapBlack1.jpg?v=1763728293",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "everyday-items-1",
+    "name": "RED-E Solar Powerbank RS80",
+    "file": "assets/products/rede-rs80.jpg",
+    "page": "https://www.cymot.com/en/parent-brand/red-e/9119621161-power-bank-red-e-solarled",
+    "imageUrl": "https://assets.3.commercebuild.com/444aaea5242084cee0847fdc0520b8b7/contents/9119621161/9119621161.jpg",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "everyday-items-2",
+    "name": "Kingsons Fusion 15.6\" Laptop Backpack",
+    "file": "assets/products/kingsons-fusion-backpack.webp",
+    "page": "https://www.incredible.co.za/kingsons-fusion-15-6-inch-backpack-black",
+    "imageUrl": "https://www.incredible.co.za/api/catalog/product/k/s/ks_fusion_bp_bk__3__ecommerce_a087.png",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "everyday-items-3",
+    "name": "Samsung Fit Plus USB Flash Drive 64GB",
+    "file": "assets/products/samsung-fit-plus-64gb.webp",
+    "page": "https://www.incredible.co.za/samsung-fit-plus-usb-flash-drive-64gb",
+    "imageUrl": "https://www.incredible.co.za/api/catalog/product/m/u/muf_64ab_apc_004_l_perspective_titan_gray_ecommerce_7986.png",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  },
+  {
+    "productId": "everyday-items-4",
+    "name": "HP 400 Quiet Wireless Mouse",
+    "file": "assets/products/hp-400-wireless-mouse.webp",
+    "page": "https://www.incredible.co.za/hp-400-quiet-wireless-mouse-1",
+    "imageUrl": "https://www.incredible.co.za/api/catalog/product/a/2/a27b2aa_3___cooper_mouse_black_coreset_frontleft_whitebg_4724350_ecommerce_fca1.png",
+    "note": "Product photo from the linked model range. Confirm the exact colour, configuration and included items before buying.",
+    "examplePhoto": false
+  }
+]
